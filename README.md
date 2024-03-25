@@ -51,7 +51,7 @@ Progress (✅ = Have Been Changed, ✔ = Has Been Buffed/Nerfed, Blank = Untouch
 | Zenyatta | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ Melee |
 ## Changelog
 
-See [releases]((https://github.com/Astridisweird/remastered-overwatch-2/releases)](https://github.com/Astridisweird/remastered-overwatch-2/releases))
+See [releases](https://github.com/Astridisweird/remastered-overwatch-2/releases)
 
 ## Contributing Code
 
