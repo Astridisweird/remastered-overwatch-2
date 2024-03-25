@@ -2,31 +2,32 @@
 
 This repository contains OverPy source code for building [Remastered Overwatch 2](https://workshop.codes/WS8C5) Workshop gamemode.  
 
-Overwatch 1 stats are referenced using the [Wayback Machine](https://web.archive.org/web/20220929084035/https://overwatch.fandom.com/wiki/Overwatch_Wiki) and [Overwatch 1 Emulator](https://workshop.codes/KHTG0).  
+Overwatch 1 stats are referenced using the [Wayback Machine](https://web.archive.org/web/20220929084035/https://overwatch.fandom.com/wiki/Overwatch_Wiki) and [Overwatch 1 Emulator](https://workshop.codes/KHTG0). 
 Overwatch 2 heroes are balanced in-house with the help of our [Discord](https://discord.gg/vb5r2gfNTQ) community.
+Misc stats have been made by myself which i think its fair.
 
 Progress (✅ = Have Been Changed, ✔ = Has Been Buffed/Nerfed, Blank = Untouched):
 <!--- https://docs.google.com/spreadsheets/d/1MdZIFEBehciwviUKqBGfStEGfqiRPaCtIdXxLSDwUMM/edit?usp=sharing -->
 <!--- https://www.tablesgenerator.com/markdown_tables -->
 |  | Primary Fire (M1) | Secondary Fire (M2) | Ability 1 (Shift) | Ability 2 (E) | Ultimate (Q) | Other |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ana | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Ashe | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| Ana | ✔ | ✔ | ✔ | ✔ | ✔ |  |
+| Ashe | ✔ | ✔ | ✅ | ✔ |   |  |
 | Baptiste | ✅ | ✅ | ✅ | ✔ | ✅ |  |
 | Bastion | ✔ | ✅ | ✅ | ✅ | ✅ |  |
-| Brigitte | ✅ | ✅ | ✅ | ✔ | ✔ | ✅ Shield Bash |
-| Cassidy | ✅ | ✅ | ✅ | ✅ | ✔ |  |
+| Brigitte | ✅ | ✅ | ✅ | ✔ | ✔ | ✅ Inspire |
 | D.Va | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Doomfist | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Echo | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Genji | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Hanzo | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Junker Queen |  |  |  |  |  |  |
-| Junkrat | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Kiriko |  |  |  |  |  |  |
-| Lifeweaver |  |  |  |  |  |  |
+| Junker Queen |  |  | ✅ |  |  |  |
+| Junkrat | ✔ | ✔ | ✔ | ✅ | ✅ |  |
+| Kiriko | ✅ | ✅ | ✅ |  |  |  |
+| Lifeweaver |  |  | ✅ |  |  |  |
 | Lucio | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Mei | ✔ | ✔ | ✅ | ✔ | ✅ |  |
+| Mccree | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Mercy | ✅ | ✅ | ✅ | ✅ | ✔ | ✅ Regen |
 | Moira | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Orisa | ✅ | ✅ | ✔ | ✔ | ✔ |  |
