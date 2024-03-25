@@ -16,41 +16,42 @@ Progress (✅ = Have Been Changed, ✔ = Has Been Buffed/Nerfed, Blank = Untouch
 | Baptiste | ✅ | ✅ | ✅ | ✔ | ✅ |  |
 | Bastion | ✔ | ✅ | ✅ | ✅ | ✅ |  |
 | Brigitte | ✅ | ✅ | ✅ | ✔ | ✔ | ✅ Inspire |
-| D.Va | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| D.Va | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ Damage|
 | Doomfist | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Echo | ✅ | ✅ | ✅ | ✅ | ✔ |  |
-| Genji | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Hanzo | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| Genji | ✔ | ✔ | ✔ | ✔ | ✔ |  |
+| Hanzo | ✔ | ✔ | ✔ | ✔ | ✔ |  |
 | Junker Queen |  |  | ✅ |  |  |  |
 | Junkrat | ✔ | ✔ | ✔ | ✅ | ✅ |  |
-| Kiriko | ✅ | ✅ | ✅ |  |  |  |
+| Kiriko | ✅ | ✅ | ✅ |  |  | ✅ Wall Climb |
 | Lifeweaver |  |  | ✅ |  |  |  |
 | Lucio | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Mei | ✔ | ✔ | ✅ | ✔ | ✅ |  |
+| Mei |  |  | ✔ |  |  |  |
 | Mccree | ✅ | ✅ | ✅ | ✅ | ✔ |  |
-| Mercy | ✅ | ✅ | ✅ | ✅ | ✔ | ✅ Regen |
+| Mercy | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Moira | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Orisa | ✅ | ✅ | ✔ | ✔ | ✔ |  |
 | Pharah | ✅ | ✔ | ✔ | ✔ | ✅ |  |
 | Ramattra |  |  |  |  |  |  |
 | Reaper | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Reinhardt | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ Steadfast |
+| Reinhardt | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Roadhog | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ Ult Charge |
 | Sigma | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Sojourn |  |  |  |  |  |  |
+| Sojourn |  |  |  |  | ✅ |  |
 | Soldier: 76 | ✅ | ✅ | ✅ | ✔ | ✅ |  |
 | Sombra |  | ✔ | ✔ | ✔ | ✔ |  |
 | Symmetra | ✔ | ✔ | ✔ | ✔ | ✅ |  |
 | Torbjorn | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Tracer | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Widowmaker | ✅ | ✅ | ✅ | ✅ | ✅ |  |
-| Winston | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| Tracer | ✔ |  |  | ✅ | ✅ |  |
+| Widowmaker |  |  |  |  |  |  |
+| Winston | ✔ | ✅ | ✅ | ✅ | ✅ |  |
 | Wrecking Ball | ✅ | ✅ | ✅ | ✔ | ✔ | ✅ Piledriver |
 | Zarya | ✅ | ✅ | ✅ | ✅ | ✔ |  |
 | Zenyatta | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ Melee |
 ## Changelog
 
-See [releases](https://gitlab.com/MaxwellJung/ow1_emulator/-/releases)
+See [releases]([https://gitlab.com/MaxwellJung/ow1_emulator/-/releases](https://github.com/Astridisweird/remastered-overwatch-2/releases))
 
 ## Contributing Code
 
