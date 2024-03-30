@@ -1,4 +1,10 @@
-Copyright 2024 Remastered Overwatch 2
+This software is a fork of the following software, originally licensed under the BSD 3 clause license:
+
+Overwatch 1 Emulator - https://gitlab.com/MaxwellJung/ow1_emulator
+
+A copy of the BSD-3 license from the original project can be found below:
+
+Copyright 2024 Overwatch 1 Emulator
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
